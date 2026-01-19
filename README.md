@@ -1,12 +1,12 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
 <p align="center">
-  <img src="python_study.png" />
+  <img src="python_study.png"/>
 </p>
 
-# Objetivo
+# Meus Estudos
 
-Aqui, você encontrará meus estudos em Python.
+Aqui, você encontrará meus estudos em linguagem Python.
 
 ## Tópicos de estudo
 
@@ -16,6 +16,7 @@ Aqui, você encontrará meus estudos em Python.
 - [Teste3]()
 - [Teste4]()
 - [Teste5]()
+- [Teste6]()
 
 ## Licença
 
